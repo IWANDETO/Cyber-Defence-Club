@@ -142,6 +142,10 @@ div.org {
     font-weight: normal;
   }
 }
+  .list-unstyled a{
+  color: white; 
+  text-decoration: none;
+}
 </style>
 <title>Cyber Defence Club</title>
 </head>
